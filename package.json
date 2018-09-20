@@ -1,0 +1,14 @@
+{
+  "name": "elementsfrompoint-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for elementsFromPoint based on elementFromPoint",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/JSmith01/elementsfrompoint-polyfill.git"
+  },
+  "author": "",
+  "license": "Unlicense"
+}
